@@ -28,12 +28,14 @@ nav ul li{
     margin-right: 24px;
     padding: 10px;
     font-size: 24px;
+    color: #000;
     background-color: #FFE5B4;
 }
 
 nav a{
     /* Set text decoration*/
     text-decoration-line: none;
+    color: #000;
     
     
 }
