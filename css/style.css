@@ -48,6 +48,7 @@ a:visited{
 nav a.current{
     /* Set text decoration, transformation, and underline properties */
     text-decoration-line: underline;
+    color: #000;
     text-decoration-style: wavy;
     text-underline-offset: 10px;
     text-transform: uppercase;
